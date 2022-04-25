@@ -1,8 +1,8 @@
 # ULatinHack2022
 
-_CSTI Corp en colaboración con SAP Next Gen y la Universidad Peruana de Ciencias Aplicadas (UPC) conforman el comité organizador de ULatinHack, una hackathon que cuenta con la participación de más de 10 universidades de LATAM y España. ...
+_CSTI Corp en colaboración con SAP Next Gen y la Universidad Peruana de Ciencias Aplicadas (UPC) conforman el comité organizador de ULatinHack, una hackathon que cuenta con la participación de más de 10 universidades de LATAM y España._
 
-...ULatinHack nace con el objetivo de fomentar y apoyar soluciones innovadoras por parte de alumnos universitarios, aplicando distintas herramientas y tecnología, en la que se incluye SAP Analytics Cloud, Front-end (SAP UI 5) , Back-end (Cloud Foundry Runtime), Chatbot, iRPA, Appgyver, Business Case e Integración._
+_ULatinHack nace con el objetivo de fomentar y apoyar soluciones innovadoras por parte de alumnos universitarios, aplicando distintas herramientas y tecnología, en la que se incluye SAP Analytics Cloud, Front-end (SAP UI 5) , Back-end (Cloud Foundry Runtime), Chatbot, iRPA, Appgyver, Business Case e Integración._
 
 ## Información de este repo 🚀
 
