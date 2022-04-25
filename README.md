@@ -15,17 +15,16 @@ Como parte del desarrollo de esos Tech talks, en este repo tenemos carpetas para
 _Los 3 templates que tenemos son_
 
 ```
-1. Prerequisitos (.word)
-2. Guía de pasos (.word)
-3. Presentación de la sesión (.pptx)
+1. Guía de pasos a seguir en el Tech Talk (guideULatinHack.docx)
+2. Prerequisitos para antes de llegar a la Tech Talk (prerequisitesULatinHack.docx)
+3. Presentación de la Tech Talk(TemplateULatinHack.pptx)
 ```
 
 ### Pasos 🔧
 
-_Descargar este repo y editar la carpeta del workshop correspondiente. Añadir la información correspondiente y una vez lista subir los cambios de este respositorio. La fecha límite es el 1 de mayo _
+_Al descargar este repo, modificar la carpeta con el material correspondiente. Añadir la información  y una vez lista subir los cambios de este respositorio. La fecha límite es el 1 de mayo._
 
 
 
 ## Dudas 📌
-Si tienes dudas o dificultades puedes escribirnos a:
-o contactarnos al whatsapp:
+Si tienes dudas o dificultades puedes escribirnos a: ialvarez@csticorp.biz.
