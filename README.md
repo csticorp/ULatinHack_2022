@@ -1,4 +1,5 @@
 # ULatinHack2022
+![alt text](https://noticias.upc.edu.pe/wp-content/uploads/2022/04/Foto-ULatinHack-2022-01.jpg)
 
 _CSTI Corp en colaboración con SAP Next Gen y la Universidad Peruana de Ciencias Aplicadas (UPC) conforman el comité organizador de ULatinHack, una hackathon que cuenta con la participación de más de 10 universidades de LATAM y España._
 
